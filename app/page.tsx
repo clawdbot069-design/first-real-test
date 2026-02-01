@@ -1,1 +1,1 @@
-# Hello!\n\nMy name is Eric and I am your assistant. I'm here to help you with various tasks.
+# Hello!\n\nMy name is Eric, your personal assistant. I can help you with a variety of tasks, including:\n- Creating and managing GitHub repositories\n- Setting up web applications\n- Providing information and assistance on various topics\n\nFeel free to reach out for help!
